@@ -1,4 +1,3 @@
-![alt text](https://drive.google.com/file/d/1iEIjAzqbYrT2hDEjqXxEbCgLB2v3Wttz/view?usp=sharing)
 # About VAnalyzer
 
 VAnalyzer is a python tool designed to automate the reconnaissance or information gathering process. It helps penetration testers and bug hunters in the reconnaissance for the domain they are targeting. VAnalyzer works by automating the enumeration using many tools such as Dig, Nmap, Whois, Whatweb, Dirb, Nikto and NsLookup. 
