@@ -6,7 +6,7 @@ By using this tool you can also download the wordlists for hunting subdomains ea
 
 # Installation
 
-git clone <link>
+git clone https://github.com/cyberchiranjit/VAnalyzer.git
 
 # Required Python Version:
 
@@ -18,7 +18,7 @@ As I have mentioned above that this tool works by automating the other tools. He
 
 # Usage:
 
-After installing, to the directory named the VAnalyzer where VAnalyzer.py is present. Then, run the script using--
+After installing, to the directory named the VAnalyzer where VAnalyzer.py is present. Then, run the script using :-
 
 python3 VAnalyzer.py 
 
@@ -26,5 +26,8 @@ python3 VAnalyzer.py
 
 The current version is 0.1
 
+# Legal disclaimer
+
+This tool is created for the sole purpose of security awareness and education, it should not be used against systems that you do not have permission to test/attack. The author is not responsible for misuse or for any damage that you may cause. You agree that you use this software at your own risk.
 
 
