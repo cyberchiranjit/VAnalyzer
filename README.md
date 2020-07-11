@@ -23,7 +23,7 @@ After installing, to the directory named the VAnalyzer where VAnalyzer.py is pre
 
 python3 VAnalyzer.py 
 
-# Version:
+# Version :
 
 The current version is 0.1
 
